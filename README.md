@@ -41,4 +41,4 @@ We are not responsible for any damages.
 
 This theme is taken from [creativetim](https://github.com/creativetimofficial).
 
-This project Is managed by made by [IC|Developmet](https://github.com/Team-IC) Developers
+This project Is managed by made by [IC | Developmet](https://github.com/Team-IC) Developers
